@@ -1,0 +1,15 @@
+h1 {
+    font-size: 70px;
+    font-family:  'Georgia', Times, serif;
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-image: url(./image/medicine1.jpg);
+    height: 100%;
+    width: 100%;
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
